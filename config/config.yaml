@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://github.com/luohao10001/ssssrrr/master/source.yaml
+  - https://github.com/luohao10001/ssssrrr/raw/master/source.yaml
