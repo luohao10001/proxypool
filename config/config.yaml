@@ -7,7 +7,7 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  # - https://example.com/config/source.yaml
+  - https://github.com/luohao10001/luohao/raw/master/source.yaml
 
 # ======= 可选项，留空使用default值  =======
 
@@ -15,7 +15,7 @@ source-files:
 database_url: ""
 
 # interval between each crawling
-crawl-interval:       # v0.5.x default 60 (minutes)
+crawl-interval: 15      # v0.5.x default 60 (minutes)
 crontime:             # v0.4.x default 60 (minutes). Deprecated in the newest version
 
 # speed test
